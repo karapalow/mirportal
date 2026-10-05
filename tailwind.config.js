@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{ts,tsx}'], theme: { extend: { colors: { g:{DEFAULT:'#16A34A',d:'#166534',l:'#F0FDF4'}, b:{DEFAULT:'#2563EB',d:'#1E3A8A',l:'#EFF6FF'}, ink:'#0F172A' } } } }
